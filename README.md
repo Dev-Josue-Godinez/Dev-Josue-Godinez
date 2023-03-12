@@ -2,7 +2,7 @@
 ###  :construction: Hi there! 👋 This profile is under construction   :construction:
 
 # Github Status
-![Github Status](https://github-readme-stats.vercel.app/api?username=fuakim&count_private=true&show_icons=true&theme=react)
+![Github Status](https://github-readme-stats.vercel.app/api?username=Dev-Josue-Godinez&count_private=true&show_icons=true&theme=react)
   
  ## Currently working with
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
